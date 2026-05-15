@@ -1,4 +1,3 @@
-#本项目基于yolov5-fire-detection独立发展，已进行重构。保留原许可证。原作者：xiaofuqing13
 # YOLOv5 火灾检测系统
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![YOLOv5](https://img.shields.io/badge/YOLOv5-Ultralytics-blue) ![License](https://img.shields.io/badge/License-MIT-green)
