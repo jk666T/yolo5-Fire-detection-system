@@ -76,3 +76,7 @@ pip install PyQt5
 | 深度学习 | PyTorch |
 | 图像处理 | OpenCV |
 | 报警音效 | winsound (Windows) |
+
+## 许可证
+
+GPL-3.0 License
