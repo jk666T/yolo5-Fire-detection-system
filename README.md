@@ -66,6 +66,7 @@ pip install PyQt5
     ├── images/                   # 测试图片
     ├── docs/                     # 文档
     └── requirements.txt          # 依赖列表
+```
 
 ## 技术栈
 
